@@ -1,4 +1,4 @@
-📌 Project Overview
+Nirmala
 
 This project presents an HR Attrition Analytics Dashboard built using Power BI to analyze employee attrition patterns and identify key factors influencing employee turnover.
 
